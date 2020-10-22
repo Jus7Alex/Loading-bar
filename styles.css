@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+    font-size:10.5vmin;
+    font-family:Century Gothic;
+}
+h1{
+  text-align: center;
+  font-family: Century Gothic;
+  font-variant: small-caps;
+  color: hsl(210,70%,40%);
+}
+
+h3{
+  text-align: center;
+  font-family: Century Gothic;
+  font-variant: small-caps;
+  color: hsl(210,70%,30%);
+}
+div{
+    text-align:left;
+    font-size:8.5vmin;
+    height:10.5vmin;
+}
